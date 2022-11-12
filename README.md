@@ -13,7 +13,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 </div>
 
-## 1 Prepare-se para a Jornada
+## 1 Prepare-se para a Jornada :heavy_check_mark:
 
   - [x] Boas-vindas ao Potência Tech powered by iFood - Java Beginners
 
