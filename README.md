@@ -5,7 +5,7 @@ Olá, este repositório é destinado ao conteúdo do
 
 <h1><img height="200vh" src="images/bootcamp-aws.webp">
 
-Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
+Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 <h3> Andamento do Processo:</h3>
 
@@ -27,7 +27,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
   <br/>
 
-# #2 Princípios de Desenvolvimento de Software
+# #2 Conhecendo o Sistema Operacional Linux
 
   - [x] Introdução ao Sistema Operacional Linux
 
@@ -39,111 +39,97 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
   
   - [x] Gerenciando Usuários no Linux
 
-  - [x] **Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões**
+  - [x] **Desafio 01 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** [Clique aqui para acessar o Código.]()
+
+  - [x] Gerenciando de Pacotes Linux
+
+  - [ ] Gerenciamento de Discos Linux
+
+  - [ ] Copiando Arquivos e Manipulando Processos
+
+  - [ ] Servidores de Arquivos com Linux
+
+  - [ ] Criando um Servidor Web com Linux
+
+  - [ ] Servidor de Banco de Dados com Linux
+
+  - [ ] **Desafio 02 - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)** [Clique aqui para acessar o Código.]()
+
 
   <br/>
 
-# #3 Conhendo a Linguagem de Programação Java
+# #3 Desmistificando Docker
 
-  - [x] Introdução à Plataforma Java
+  - [ ] Introdução e Laboratório Virtual
 
-  - [x] Ambiente de Desenvolvimento Java
+  - [ ] Primeiros Passos com Docker
 
-  - [x]  Aprendendo a Sintaxe Java
+  - [ ]  Armazenamento de Dados
 
-  - [x] Lógica Condicional e Controle de Fluxos em Java
+  - [ ] Processamento, Logs e Rede
   
-  - [x] Estruturas de Repetição e Arrays em Java
+  - [ ] Definição e Criação de um Docker File
   
-  - [x] Entendendo Métodos Java
+  - [ ] Docker Compose
+
+  - [ ] **Desafio 03 - Criando um Container de uma Aplicação WEB** [Clique aqui para acessar o Código.]()
+
+  - [ ] Criando um Cluster com o Docker Swarm
+
+  - [ ] Load Balancer
+
+  - [ ] **Desafio 04 - Definição de um Cluster Swarm Local com o Vagrant** [Clique aqui para acessar o Código.]()
 
  <br/>
 
- # #4 Dominando Algoritmos Básicos com Desafios de Código Java
+ # #4 Kubernets do Zero à Procução
 
-### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos)
+  - [ ] Kubernets Overview
 
-  - [x] Desafio: Os números são iguais? [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/OsNumerosSaoIguais.java)
+  - [ ] Ambiente de Desenvolvimento Kubernets
 
-  - [x] Desafio: Somando múltiplos. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/SomandoMultiplos.java)
+  - [ ] Cluster Kubernets em Nuvem
 
-  - [x]  Desafio: Uma chamada recursiva. [Clique aqui para acessar o Código](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/UmaChamadaRecursiva.java)
-
-  - [x] Desafio: FizzBuzz. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/FizzBuzz.java)
+  - [ ] Conceitos Básicos Sobre Pods em Kubernets
   
-  - [x] Desafio: Busca Sequencial. [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/BuscaSequencial.java)
+  - [ ] Criando Imagens Personalizadas com o Docker
+
+  - [ ] Serviços de Acesso para Kubernets Pods
+
+  - [ ] Persistência de Dados Clusters Kibernets
+
+  - [ ] **Desafio 05 - Criando um Deploy de uma Aplicação** [Clique aqui para acessar o Código.]()
+
+  - [ ] Deployment e Roolback em Clusters Kubernetes
+
+  - [ ] CI-CD Utilizando Kubernetes
+
+  - [ ] **Desafio 06 - Criando um Pipeline de Deploy com GitLab e Kuberneteso** [Clique aqui para acessar o Código.]()
+
 
  <br/>
 
- # #5 Programação Orientada a Objetos com Java
+ # #5 AWS Foundations
 
-  - [x] Programação Orientada a Objetos
+  - [ ] Primeiros Passos com AWS
 
-  - [x] Trabalhando com Colletions Java
+  - [ ] Imersão ao Ecossistema Cloud Data AWS
 
-  - [x]  Debugging Java
+  - [ ] Introdução Prática a Computação em Nuvem Usando AWS
 
-  - [x] Tratamento de Exceções em Java
+  - [ ] Introdução a Engenharia de Dados na AWS
   
-  - [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
  <br/>
 
-  # #6 Ganhando Produtividade com Spring Framework
-
-  - [ ] Principais Protocolos de Comunicação da Internet
-
-  - [ ] Gerenciamento de Dependências e Build em Java com Maven
-
-  - [ ]  Imersão no Spring Framework com Spring Boot
-
-  - [ ] Criando uma API REST Documentada com Spring Web e Swagger
-  
-  - [ ] Explorando Padrões de Projetos na Prática com Java
-
- <br/>
-
-   # #7 Dominando Algoritmos Intermediários com Desafios de Código Java
-
-### [Clique aqui para acessar TODOS os Desafios deste Módulo](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios)
-
-  - [x] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ChecagemDePalindromo.java)
-
-  - [x] Desafio: Validação de Parênteses [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ValidacaoDeParenteses.java)
-
-  - [x]  Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/QuadradosPerfeitos.java)
-
-  - [x] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/ClassificandoMatrizes1.java)
-  
-  - [x] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.](https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main/desafios-de-codigo/modulo-7-desafios-intermediarios/FatorialDesajeitado.java)
-
- <br/>
-
-   # #8 Fortalecendo sua Carreira Profissional
-
-  - [ ] Deixando Seu LinkedIn Atrativo
-
-  - [ ] Turbine Seu Currículo na DIO
-
-  - [ ] Trabalhando em Equipes Ágeis
-
-  - [ ] Transformando seu Conhecimento em Artigos Técnicos
-
-  
-  - [ ] Se Preparando Para Uma Entrevista
-  
-  - [ ] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
-
- 
- <br/>
 
 <div align="center">
 
-### _#BootcampiFoodJavaTech_
+### _#Jornada DevOps com AWS - Impulso_
 
 ### _#ContratoDeCompromisso_
 
-  <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br><a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
-  <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+  <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br><a href="https://www.linkedin.com/in/erivamjr/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
+  <a href = "mailto:erivam_jr@hotmail.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
 
 </div>
