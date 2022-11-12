@@ -13,7 +13,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 </div>
 
-# #1 Prepare-se para a Jornada
+## 1 Prepare-se para a Jornada
 
   - [x] Boas-vindas ao Potência Tech powered by iFood - Java Beginners
 
@@ -27,7 +27,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   <br/>
 
-# #2 Conhecendo o Sistema Operacional Linux
+## 2 Conhecendo o Sistema Operacional Linux
 
   - [x] Introdução ao Sistema Operacional Linux
 
@@ -39,7 +39,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
   
   - [x] Gerenciando Usuários no Linux
 
-  - [x] **Desafio 01 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** [Clique aqui para acessar o Código.]()
+  - [x] **Desafio 01 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** [Clique aqui para acessar o Código.](https://github.com/erivamjr/Jornada-DevOps-com-AWS---Impulso/blob/main/desafio-1-create-script/iacaws.sh)
 
   - [x] Gerenciando de Pacotes Linux
 
@@ -58,7 +58,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   <br/>
 
-# #3 Desmistificando Docker
+## 3 Desmistificando Docker
 
   - [ ] Introdução e Laboratório Virtual
 
@@ -82,7 +82,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
  <br/>
 
- # #4 Kubernets do Zero à Procução
+ ## 4 Kubernets do Zero à Procução
 
   - [ ] Kubernets Overview
 
@@ -109,7 +109,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
  <br/>
 
- # #5 AWS Foundations
+ ## 5 AWS Foundations
 
   - [ ] Primeiros Passos com AWS
 
