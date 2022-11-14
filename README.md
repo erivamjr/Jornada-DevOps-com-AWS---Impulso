@@ -43,11 +43,11 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Gerenciando de Pacotes Linux
 
-  - [ ] Gerenciamento de Discos Linux
+  - [x] Gerenciamento de Discos Linux
 
-  - [ ] Copiando Arquivos e Manipulando Processos
+  - [x] Copiando Arquivos e Manipulando Processos
 
-  - [ ] Servidores de Arquivos com Linux
+  - [x] Servidores de Arquivos com Linux
 
   - [ ] Criando um Servidor Web com Linux
 
