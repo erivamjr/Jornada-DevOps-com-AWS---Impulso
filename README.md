@@ -49,7 +49,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Servidores de Arquivos com Linux
 
-  - [ ] Criando um Servidor Web com Linux
+  - [x] Criando um Servidor Web com Linux
 
   - [ ] Servidor de Banco de Dados com Linux
 
