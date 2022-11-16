@@ -51,9 +51,9 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Criando um Servidor Web com Linux
 
-  - [ ] Servidor de Banco de Dados com Linux
+  - [x] Servidor de Banco de Dados com Linux
 
-  - [ ] **Desafio 02 - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)** [Clique aqui para acessar o Código.]()
+  - [x] **Desafio 02 - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)** [Clique aqui para acessar o Código.]()
 
 
   <br/>
