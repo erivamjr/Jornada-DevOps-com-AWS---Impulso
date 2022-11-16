@@ -13,10 +13,10 @@ O controle de versão é uma parte importante da IaC. Os arquivos de configuraç
 
 - [x] Atualizar o servidor;
 
-[x] Instalar o apache2;
+- [x] Instalar o apache2;
 
-[x] Instalar o unzip;
+- [x] Instalar o unzip;
 
-[x] Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório /tmp;
+- [x] Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório /tmp;
 
-[x] Copiar os arquivos da aplicação no diretório padrão do apache;
+- [x] Copiar os arquivos da aplicação no diretório padrão do apache;
