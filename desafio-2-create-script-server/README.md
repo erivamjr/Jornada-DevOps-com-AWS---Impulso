@@ -11,7 +11,7 @@ O controle de versão é uma parte importante da IaC. Os arquivos de configuraç
 
 ## Task
 
-[x] Atualizar o servidor;
+- [x] Atualizar o servidor;
 
 [x] Instalar o apache2;
 
