@@ -60,9 +60,9 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 ## 3 Desmistificando Docker
 
-  - [ ] Introdução e Laboratório Virtual
+  - [x] Introdução e Laboratório Virtual
 
-  - [ ] Primeiros Passos com Docker
+  - [x] Primeiros Passos com Docker
 
   - [ ]  Armazenamento de Dados
 
