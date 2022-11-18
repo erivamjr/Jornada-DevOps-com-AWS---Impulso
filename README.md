@@ -64,7 +64,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Primeiros Passos com Docker
 
-  - [ ]  Armazenamento de Dados
+  - [x]  Armazenamento de Dados
 
   - [ ] Processamento, Logs e Rede
   
