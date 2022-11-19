@@ -66,7 +66,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x]  Armazenamento de Dados
 
-  - [ ] Processamento, Logs e Rede
+  - [x] Processamento, Logs e Rede
   
   - [ ] Definição e Criação de um Docker File
   
