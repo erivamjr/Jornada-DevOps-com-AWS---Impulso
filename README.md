@@ -70,7 +70,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
   
   - [x] Definição e Criação de um Docker File
   
-  - [ ] Docker Compose
+  - [x] Docker Compose
 
   - [ ] **Desafio 03 - Criando um Container de uma Aplicação WEB** [Clique aqui para acessar o Código.]()
 
