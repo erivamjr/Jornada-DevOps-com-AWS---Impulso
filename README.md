@@ -39,7 +39,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
   
   - [x] Gerenciando Usuários no Linux
 
-  - [x] **Desafio 01 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** [Clique aqui para acessar o Código.](https://github.com/erivamjr/Jornada-DevOps-com-AWS---Impulso/blob/main/desafio-1-create-script/iacaws.sh)
+  - [x] **Desafio 01 - Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** [Clique aqui para acessar o Código.](https://github.com/erivamjr/Jornada-DevOps-com-AWS---Impulso/blob/main/desafio-1/iacaws.sh)
 
   - [x] Gerenciando de Pacotes Linux
 
@@ -53,7 +53,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Servidor de Banco de Dados com Linux
 
-  - [x] **Desafio 02 - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)** [Clique aqui para acessar o Código.]()
+  - [x] **Desafio 02 - Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)** [Clique aqui para acessar o Código.](https://github.com/erivamjr/Jornada-DevOps-com-AWS---Impulso/blob/main/desafio-2/iacaws.sh)
 
 
   <br/>
