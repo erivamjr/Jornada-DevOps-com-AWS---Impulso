@@ -1,0 +1,49 @@
+.completed {
+  text-decoration: line-through solid black !important;
+}
+
+.lista {
+  text-align: center;
+}
+
+section {
+  display: flex;
+}
+
+.btnCuster {
+  margin-left: 20px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .lista {
+    text-align: left;
+  }
+
+  section {
+    flex-direction: column;
+  }
+
+  footer {
+    flex-direction: column;
+  }
+
+  .btn {
+    margin: 5px 0px;
+    width: 100%;
+  }
+
+  .btnCuster {
+    margin: 5px 0px;
+  }
+
+}
