@@ -74,7 +74,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] **Desafio 03 - Criando um Container de uma Aplicação WEB** [Clique aqui para acessar o Código.](https://github.com/erivamjr/Jornada-DevOps-com-AWS---Impulso/tree/main/desafio-3)
 
-  - [ ] Criando um Cluster com o Docker Swarm
+  - [x] Criando um Cluster com o Docker Swarm
 
   - [ ] Load Balancer
 
