@@ -76,7 +76,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Criando um Cluster com o Docker Swarm
 
-  - [ ] Load Balancer
+  - [x] Load Balancer
 
   - [ ] **Desafio 04 - Definição de um Cluster Swarm Local com o Vagrant** [Clique aqui para acessar o Código.]()
 
