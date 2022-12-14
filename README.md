@@ -84,19 +84,19 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
  ## 4 Kubernets do Zero à Procução
 
-  - [ ] Kubernets Overview
+  - [x] Kubernets Overview
 
-  - [ ] Ambiente de Desenvolvimento Kubernets
+  - [x] Ambiente de Desenvolvimento Kubernets
 
-  - [ ] Cluster Kubernets em Nuvem
+  - [x] Cluster Kubernets em Nuvem
 
-  - [ ] Conceitos Básicos Sobre Pods em Kubernets
+  - [x] Conceitos Básicos Sobre Pods em Kubernets
   
-  - [ ] Criando Imagens Personalizadas com o Docker
+  - [x] Criando Imagens Personalizadas com o Docker
 
-  - [ ] Serviços de Acesso para Kubernets Pods
+  - [x] Serviços de Acesso para Kubernets Pods
 
-  - [ ] Persistência de Dados Clusters Kibernets
+  - [x] Persistência de Dados Clusters Kibernets
 
   - [ ] **Desafio 05 - Criando um Deploy de uma Aplicação** [Clique aqui para acessar o Código.]()
 
