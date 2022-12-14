@@ -96,7 +96,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Serviços de Acesso para Kubernets Pods
 
-  - [x] Persistência de Dados Clusters Kibernets
+  - [x] Persistência de Dados Clusters Kubernets
 
   - [ ] **Desafio 05 - Criando um Deploy de uma Aplicação** [Clique aqui para acessar o Código.]()
 
