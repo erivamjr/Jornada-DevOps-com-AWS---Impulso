@@ -98,20 +98,20 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
   - [x] Persistência de Dados Clusters Kubernets
 
-  - [ ] **Desafio 05 - Criando um Deploy de uma Aplicação** [Clique aqui para acessar o Código.]()
+  - [x] **Desafio 05 - Criando um Deploy de uma Aplicação** [Clique aqui para acessar o Código.]()
 
-  - [ ] Deployment e Roolback em Clusters Kubernetes
+  - [x] Deployment e Roolback em Clusters Kubernetes
 
-  - [ ] CI-CD Utilizando Kubernetes
+  - [x] CI-CD Utilizando Kubernetes
 
-  - [ ] **Desafio 06 - Criando um Pipeline de Deploy com GitLab e Kuberneteso** [Clique aqui para acessar o Código.]()
+  - [x] **Desafio 06 - Criando um Pipeline de Deploy com GitLab e Kuberneteso** [Clique aqui para acessar o Código.]()
 
 
  <br/>
 
  ## 5 AWS Foundations
 
-  - [ ] Primeiros Passos com AWS
+  - [x] Primeiros Passos com AWS
 
   - [ ] Imersão ao Ecossistema Cloud Data AWS
 
