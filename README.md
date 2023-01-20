@@ -127,9 +127,9 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 ### _#Jornada DevOps com AWS - Impulso_
 
-### _#ContratoDeCompromisso_
+### _#ProntoParaOPróximoDesafio_
 
-  <img height="200vh" src="images/ok.gif"><br><a href="https://www.linkedin.com/in/erivamjr/" target="_blank"><img height="25vh" src="images/linkedin.png" target="_blank"></a>
+  <img height="200vh" src="images/ok-san.gif"><br><a href="https://www.linkedin.com/in/erivamjr/" target="_blank"><img height="25vh" src="images/linkedin.png" target="_blank"></a>
   <a href = "mailto:erivam_jr@hotmail.com"><img height="25vh" src="images/contato.png" target="_blank"></a><br>
 
 </div>
