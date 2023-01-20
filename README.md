@@ -129,7 +129,7 @@ Bootcamp Jornada DevOps com AWS - Impulso</h1>
 
 ### _#ContratoDeCompromisso_
 
-  <img height="200vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br><a href="https://www.linkedin.com/in/erivamjr/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank"></a>
-  <a href = "mailto:erivam_jr@hotmail.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+  <img height="200vh" src="images/ok.gif"><br><a href="https://www.linkedin.com/in/erivamjr/" target="_blank"><img height="25vh" src="images/linkedin.png" target="_blank"></a>
+  <a href = "mailto:erivam_jr@hotmail.com"><img height="25vh" src="images/contato.png" target="_blank"></a><br>
 
 </div>
